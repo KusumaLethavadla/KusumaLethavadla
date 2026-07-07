@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Lethavadla Kusuma
 
-<!--
-**KusumaLethavadla/KusumaLethavadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning React, DSA and Full Stack Development
+- 🚀 Passionate about Web Development, AI and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- 🍔 Food Express Website
+- 😴 Stress & Sleep Monitoring App
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+- Python
+- Java
+- C
+- JavaScript
+
+### Web Development
+
+- HTML
+- CSS
+- React
+- TypeScript
+
+### Tools
+
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- React
+- TypeScript
+- Python
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+
+https://www.linkedin.com/in/lethavadlakusuma
+
+Email
+
+lethavadlakusuma@gmail.com
